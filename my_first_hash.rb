@@ -1,5 +1,5 @@
 def my_hash
-  my_hash = {"cats" => "2", "dogs" = "4"}
+  my_hash = {"cats" => "2", "dogs" => "4"}
 end
 
 
